@@ -18,6 +18,12 @@ My name is Pablo better known as pablokgb. I have a never ending appetite for le
 
 <div class="divider"></div>
 
+## Certifications
+
+* CCNA *(Cisco Certified Network Associate)
+
+<div class="divider"></div>
+
 ## CTF profiles
 
 <script src="https://tryhackme.com/badge/649705"></script>
