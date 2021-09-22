@@ -20,7 +20,7 @@ My name is Pablo better known as pablokgb. I have a never ending appetite for le
 
 ## Certifications
 
-* CCNA *(Cisco Certified Network Associate)
+* ***CCNA*** (Cisco Certified Network Associate)
 
 <div class="divider"></div>
 
