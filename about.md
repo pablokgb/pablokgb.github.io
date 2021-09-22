@@ -10,7 +10,7 @@ My name is Pablo better known as pablokgb. I have a never ending appetite for le
 
 ## Skills
 
-| Pentesting | Sysadmin/Networking |     Devops    |   Programming   |
+| Pentesting | Sysadmin-Networking |     Devops    |   Programming   |
 |---|---|---|---|---|
 | Privesc    | Linux          | Docker        | Python          |
 | Metasploit | Windows Server | Digital Ocean | Shell scripting |
