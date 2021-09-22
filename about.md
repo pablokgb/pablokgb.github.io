@@ -18,6 +18,17 @@ My name is Pablo better known as pablokgb. I have a never ending appetite for le
 |            |                 | Virtualization |               | HTML            |
 |            |                 |                |               | CSS             |
 
+<table>
+  <tr>
+    <th>Fruit</th>
+    <td>Banana</td>
+  </tr>
+  <tr>
+    <th>Vegetable</th>
+    <td>Carrot</td>
+  </tr>
+</table>
+
 <div class="divider"></div>
 
 ## Certifications
