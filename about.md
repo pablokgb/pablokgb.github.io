@@ -10,11 +10,13 @@ My name is Pablo better known as pablokgb. I have a never ending appetite for le
 
 ## Skills
 
-| Pentesting    | Sysadmin      | Networking   | Devops    | Programming |
-| ------------- |:-------------:| :-----------:|:---------:|------------:|
-| col 3 is      | right-aligned | $1600        |
-| col 2 is      | centered      |   $12        |
-| zebra stripes | are neat      |    $1        |
+| ***Pentesting*** |    ***Sysadmin***   |    Networking   |     Devops    |   Programming   |
+|:----------:|:--------------:|:---------------:|:-------------:|:---------------:|
+|   Privesc  |      Linux     |  Cisco routing  |     Docker    |      Python     |
+| Metasploit | Windows Server | Cisco switching | Digital Ocean | Shell scripting |
+| Burp Suite |  Windows ADDS  |                 |      AWS      |       PHP       |
+|            | Virtualization |                 |               |       HTML      |
+|            |                |                 |               |       CSS       |
 
 <div class="divider"></div>
 
