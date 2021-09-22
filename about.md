@@ -8,11 +8,18 @@ My name is Chris Wild. I have a never ending appetite for learning and good barb
 
 <div class="divider"></div>
 
-## Table
+## Skills
 
-| Tables        | Are           | Cool  |
+| Pentesting    | Sysadmin      | Networking  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+<div class="divider"></div>
+
+## CTF profiles
+
+<script src="https://tryhackme.com/badge/649705"></script>
+
 
