@@ -10,14 +10,13 @@ My name is Pablo better known as pablokgb. I have a never ending appetite for le
 
 ## Skills
 
-|    Networking   | Pentesting |    Sysadmin    |     Devops    |   Programming   |
+| Pentesting |    Networking   |    Sysadmin    |     Devops    |   Programming   |
 |---|---|---|---|---|
-| Cisco routing   | Privesc    | Linux          | Docker        | Python          |
-| Cisco
-switching | Metasploit | Windows Server | Digital Ocean | Shell scripting |
-|                 | Burp Suite | Windows ADDS   | AWS           | PHP             |
-|                 |            | Virtualization |               | HTML            |
-|                 |            |                |               | CSS             |
+| Privesc    | Cisco routing   | Linux          | Docker        | Python          |
+| Metasploit | Cisco switching | Windows Server | Digital Ocean | Shell scripting |
+| Burp Suite |                 | Windows ADDS   | AWS           | PHP             |
+|            |                 | Virtualization |               | HTML            |
+|            |                 |                |               | CSS             |
 
 <div class="divider"></div>
 
@@ -28,6 +27,7 @@ switching | Metasploit | Windows Server | Digital Ocean | Shell scripting |
 <div class="divider"></div>
 
 ## CTF profiles
+### TryHackMe
 
 <script src="https://tryhackme.com/badge/649705"></script>
 
