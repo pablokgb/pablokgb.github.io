@@ -17,7 +17,7 @@ My name is Pablo better known as pablokgb. I have a never ending appetite for le
 | Burp Suite | Windows ADDS   | AWS           | PHP             |
 |            | Virtualization |               | HTML            |
 |            | Cisco routing  |               | CSS             |
-|            | Cisco switching|               |                 | 
+|            | Cisco switching |               |                 | 
 
 <div class="divider"></div>
 
